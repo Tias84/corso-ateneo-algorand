@@ -2,6 +2,8 @@
 /node_modules
 /dist
 
+js/node_modules
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 

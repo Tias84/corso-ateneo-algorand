@@ -1,0 +1,20 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Torres",
+  "email": "info.torres84@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^1.14.0",
+    "axios": "^0.24.0",
+    "bignumber.js": "^9.0.1",
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0"
+  },
+  "type": "module"
+}
